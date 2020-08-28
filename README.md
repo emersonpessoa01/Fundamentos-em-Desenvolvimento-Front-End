@@ -33,7 +33,7 @@
 
      - Aula 1.5.2 - Noções de CSS (Parte 2)
 
-     - Exercícios de fixação do capítulo 1
+ - Exercícios de fixação do capítulo 1
 
 ---
  **Capítulo 2 - JavaScript**
@@ -64,7 +64,7 @@
 
    - Aula 2.3.3 - JavaScript – Comandos de bloco (Parte 3)
 
-   - Exercícios de fixação do capítulo 2
+- Exercícios de fixação do capítulo 2
 
 ---
 
@@ -95,12 +95,12 @@
 
   - Aula 3.5.4 - JavaScript – CRUD com HTML/CSS/JavaScript (Parte 4)
 
-  - Exercícios de fixação do capítulo 3
-  - Fórum Pontuado
+- Exercícios de fixação do capítulo 3
+- Fórum Pontuado
 
-  - Primeira Aula Interativa
+- Primeira Aula Interativa
 
-  - Trabalho Prático - Atividade Prévia
+- Trabalho Prático - Atividade Prévia
   
 ---
 
@@ -122,7 +122,7 @@
 
   - Aula 4.4 - Refatorando o projeto do Capítulo 3
 
-  - Exercícios de fixação do capítulo 4
+- Exercícios de fixação do capítulo 4
 
 ---
 
@@ -148,11 +148,11 @@
 
   - Aula 5.4.5 - Desafios Finais (Parte 5)
 
-  - Exercícios de fixação do capítulo 5
+- Exercícios de fixação do capítulo 5
 
-  - Segunda aula interativa
+- Segunda aula interativa
 
-  - Trabalho Prático
+- Trabalho Prático
   
   ---
 
