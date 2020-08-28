@@ -41,27 +41,15 @@
 - Material das videoaulas do capítulo 2
 
    - Aula 2.1 - Introdução ao JavaScript
-
-   - Aula 2.1 - Introdução ao JavaScript
-
-   - Aula 2.2.1 - JavaScript básico (Parte 1)
-
+   
    - Aula 2.2.1 - JavaScript básico (Parte 1)
 
    - Aula 2.2.2 - JavaScript básico (Parte 2)
 
-   - Aula 2.2.2 - JavaScript básico (Parte 2)
-
    - Aula 2.3.1 - JavaScript – Comandos de bloco (Parte 1)
-  
-   - Aula 2.3.1 - JavaScript – Comandos de bloco (Parte 1)
-
+   
    - Aula 2.3.2 - JavaScript – Comandos de bloco (Parte 2)
-
-   - Aula 2.3.2 - JavaScript – Comandos de bloco (Parte 2)
-
-   - Aula 2.3.3 - JavaScript – Comandos de bloco (Parte 3)
-
+   
    - Aula 2.3.3 - JavaScript – Comandos de bloco (Parte 3)
 
 - Exercícios de fixação do capítulo 2
@@ -73,17 +61,9 @@
 - Material das videoaulas do capítulo 3
   - Aula 3.1 - Manipulando o DOM com JavaScript
 
-  - Aula 3.1 - Manipulando o DOM com JavaScript
-
   - Aula 3.2 - Manipulando o CSS com JavaScript
-
-  - Aula 3.2 - Manipulando o CSS com JavaScript
-
+  
   - Aula 3.3 - Formulários HTML
-
-  - Aula 3.3 - Formulários HTML
-
-  - Aula 3.4 - JavaScript – Manipulação de eventos
 
   - Aula 3.4 - JavaScript – Manipulação de eventos
 
@@ -96,6 +76,7 @@
   - Aula 3.5.4 - JavaScript – CRUD com HTML/CSS/JavaScript (Parte 4)
 
 - Exercícios de fixação do capítulo 3
+
 - Fórum Pontuado
 
 - Primeira Aula Interativa
