@@ -4,7 +4,7 @@
 
 
 
-## **Fundamentos em Desenvolvimento Front End - FFE203A**
+## **Fundamentos em Desenvolvimento Front End - FFE203A ©**
 
 ---
 
