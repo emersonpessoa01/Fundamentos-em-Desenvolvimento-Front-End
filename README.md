@@ -17,21 +17,21 @@
 
 
 
-     - Aula 1.1.1 - Introdução ao Visual Studio Code (Parte 1)
+     > Aula 1.1.1 - Introdução ao Visual Studio Code (Parte 1)
 
-     - Aula 1.1.2 - Introdução ao Visual Studio Code (Parte2)
+     > Aula 1.1.2 - Introdução ao Visual Studio Code (Parte2)
 
-     - Aula 1.2 - Introdução ao Node.js
+     > Aula 1.2 - Introdução ao Node.js
 
-     - Aula 1.3 - Introdução ao NPM e à biblioteca live-server
+     > Aula 1.3 - Introdução ao NPM e à biblioteca live-server
 
-     - Aula 1.4.1 - Noções de HTML (Parte 1)
+     > Aula 1.4.1 - Noções de HTML (Parte 1)
 
-     - Aula 1.4.2 - Noções de HTML (Parte 2)
+     > Aula 1.4.2 - Noções de HTML (Parte 2)
 
-     - Aula 1.5.1 - Noções de CSS (Parte 1)
+     > Aula 1.5.1 - Noções de CSS (Parte 1)
 
-     - Aula 1.5.2 - Noções de CSS (Parte 2)
+     > Aula 1.5.2 - Noções de CSS (Parte 2)
 
  - Exercícios de fixação do capítulo 1
 
