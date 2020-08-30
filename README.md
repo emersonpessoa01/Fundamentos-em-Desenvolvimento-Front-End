@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Over view das aplicações
+## Over view das aplicações
 ---
 
 <img src="./image/gifs/calculator.gif" alt="calculator">
@@ -10,22 +9,21 @@
 
 ---
 
-<img src="./image/gifs/CRUD.gif" alt="crud">
-=======
-<img src="./image/images/frontend.jpg" width="60%">
-
-
-
-
-
-## **Fundamentos em Desenvolvimento Front End - FFE203A ©**
+<img src="./image/gifs/CRUD.gif" 
+alt="crud">
 
 ---
 
+## **Fundamentos em Desenvolvimento Front End - FFE203A ©**
+
+<img src="./image/images/frontend.jpg" width="60%">
+
+<hr>
 
  ### Módulos: 
  
- ---
+<hr>
+
  **Capítulo 1 - Ecossistema:**
   - Material das videoaulas do capítulo 1
 
