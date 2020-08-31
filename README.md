@@ -3,13 +3,13 @@
 </p>
 <hr>
 
-**Repositório para armazenar conteúdos do Bootcamp Desenvolvedor Frontend da IGTI.** :octocat: 
+### Repositório para armazenar conteúdos do Bootcamp Desenvolvedor Frontend da IGTI.** :octocat: 
 <p align="center">
      <img src="./image/images/gitironman.jpg" width="100" alt="gitironman">
 </p>
 <hr>
 
-## Over view das aplicações
+### Over view das aplicações
 ---
 
 <img src="./image/gifs/calculator.gif" alt="calculator">
@@ -35,7 +35,7 @@ alt="crud">
 <hr>
 
  **Capítulo 1 - Ecossistema:**
-  - Material das videoaulas do capítulo 1
+  - Material das videoaulas do capítulo 1<br>
      > Aula 1.1.1 - Introdução ao Visual Studio Code (Parte 1)<br>     
      > Aula 1.1.2 - Introdução ao Visual Studio Code (Parte2)<br>    
      > Aula 1.2 - Introdução ao Node.js<br>
