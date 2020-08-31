@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-### Repositório para armazenar conteúdos do Bootcamp Desenvolvedor Frontend da IGTI.** :octocat: 
+### Repositório para armazenar conteúdos do Bootcamp Desenvolvedor Frontend da IGTI. :octocat: 
 <p align="center">
      <img src="./image/images/gitironman.jpg" width="100" alt="gitironman">
 </p>
@@ -35,15 +35,15 @@ alt="crud">
 <hr>
 
  **Capítulo 1 - Ecossistema:**
-  - Material das videoaulas do capítulo 1<br>
-     > Aula 1.1.1 - Introdução ao Visual Studio Code (Parte 1)<br>     
-     > Aula 1.1.2 - Introdução ao Visual Studio Code (Parte2)<br>    
-     > Aula 1.2 - Introdução ao Node.js<br>
-     > Aula 1.3 - Introdução ao NPM e à biblioteca live-server<br>
-     > Aula 1.4.1 - Noções de HTML (Parte 1)<br>
-     > Aula 1.4.2 - Noções de HTML (Parte 2)<br>
-     > Aula 1.5.1 - Noções de CSS (Parte 1)<br>
-     > Aula 1.5.2 - Noções de CSS (Parte 2)<br
+ - Material das videoaulas do capítulo 1
+  >Aula 1.1.1 - Introdução ao Visual Studio Code (Parte 1)<br>
+  >Aula 1.1.2 - Introdução ao Visual Studio Code (Parte 2)<br>
+  > Aula 1.2 - Introdução ao Node.js<br>
+  > Aula 1.3 - Introdução ao NPM e à biblioteca live-server<br>
+  > Aula 1.4.1 - Noções de HTML (Parte 1)<br>
+  > Aula 1.4.2 - Noções de HTML (Parte 2)<br>
+  > Aula 1.5.1 - Noções de CSS (Parte 1)<br>
+  > Aula 1.5.2 - Noções de CSS (Parte 2)<br
  - Exercícios de fixação do capítulo 1<br>
  
 ---
