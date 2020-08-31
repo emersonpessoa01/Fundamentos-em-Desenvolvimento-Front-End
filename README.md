@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
      <b>igti-bootcamp-frontend 2020©</b> :checkered_flag:
-</p>
+</h1>
 <hr>
 
 ### Repositório para armazenar conteúdos do Bootcamp Desenvolvedor Frontend da IGTI. :octocat: 
