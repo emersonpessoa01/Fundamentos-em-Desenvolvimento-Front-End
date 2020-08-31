@@ -1,4 +1,4 @@
-##   igti-bootcamp-frontend 2020©: checkered_flag:
+##   igti-bootcamp-frontend 2020©: :checkered_flag:
 
 ---
 
@@ -26,9 +26,9 @@ alt="crud">
 ---
 
 ## **Fundamentos em Desenvolvimento Front End - FFE203A ©**
-
-<img src="./image/images/frontend.jpg" width="60%">
-
+<p align="center">
+     <img src="./image/images/frontend.jpg" width="60%">
+</p>
 <hr>
 
  ### Módulos: 
@@ -160,6 +160,6 @@ alt="crud">
   
   ---
 
-**Avaliação final: 99.34%**
+**Avaliação final: 99.34%** :trophy:
 ---
 
