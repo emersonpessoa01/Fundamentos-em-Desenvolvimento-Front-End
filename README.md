@@ -4,7 +4,7 @@
 
 **Repositório para armazenar conteúdos do Bootcamp de Desenvolvedor Frontend da IGTI.** :octocat: 
 <p align="center">
-     <img src="./image/images/githubman.jpg" width="100" alt="githubman">
+     <img src="./image/images/gitironman.jpg" width="100" alt="gitironman">
 </p>
 
 ---
