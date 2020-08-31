@@ -11,7 +11,8 @@
    | :---: | :---: | :---: |
 <hr>
 <img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript">
-![<img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript"><sub>Git</sub](http://githib.com/emersonpessoa01)
+
+[[<img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript">](https://githib.com/emersonpessoa01)]
 
 ### Over view das aplicações
 ---
