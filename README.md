@@ -5,9 +5,9 @@
 
 ### Repositório para armazenar conteúdos do Bootcamp Desenvolvedor Frontend da IGTI. :octocat: 
 <hr>
-### Desenvolvedores:
+<h4>Desenvolvedores</h4>:
 
-   [<img src="image/images/EmerPessoa.jpeg" width=100 ><br><sub> Emerson Pessoa </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/gitironman.jpg" width=100 ><br><sub> Git Ironman </sub>]() | [<img src="image/gifs/gitoctodex.gif" width=100 ><br><sub>Git Octodex</sub>]() |
+   [<img src="image/images/EmePessoa.jpeg" width=90 ><br><sub> Emerson Pessoa </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>]() | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub>Git Octodex</sub>]() |
    | :---: | :---: | :---: |
 <hr>
 <img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript"
