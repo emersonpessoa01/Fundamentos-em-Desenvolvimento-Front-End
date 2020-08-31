@@ -7,7 +7,7 @@
 <p align="center">
      <img src="./image/images/gitironman.jpg" width="100" alt="gitironman">
 </p>
-
+<hr>
 <img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript"
 
 
