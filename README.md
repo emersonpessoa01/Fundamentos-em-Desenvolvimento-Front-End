@@ -1,8 +1,8 @@
-**Bootcamp para Desenvolvedor Frontend** :checkered_flag:
+##   igti-bootcamp-frontend 2020©: checkered_flag:
 
 ---
 
-**Repositório para armazenar conteúdos do Bootcamp de Desenvolvedor Frontend da IGTI.** :octocat: 
+**Repositório para armazenar conteúdos do Bootcamp Desenvolvedor Frontend da IGTI.** :octocat: 
 <p align="center">
      <img src="./image/images/gitironman.jpg" width="100" alt="gitironman">
 </p>
