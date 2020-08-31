@@ -10,8 +10,8 @@
    [<img src="image/images/EmePessoa.jpeg" width=90 ><br><sub> Emerson Pessoa </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>]() | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub>Git Octodex</sub>]() |
    | :---: | :---: | :---: |
 <hr>
-<img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript"
-
+<img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript">
+![<img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript"><sub>Git</sub](http://githib.com/emersonpessoa01)
 
 ### Over view das aplicações
 ---
