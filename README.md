@@ -12,7 +12,7 @@
 <hr>
 
 
-<a href="https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend" target="_blank"><img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=0000ff&stype=for-the-flat&logo=javascript"></a> <a href="https://github.com/emersonpessoa01" target="_blank" > ![GitHub last commit](https://img.shields.io/github/last-commit/emersonpessoa01/fundamentos-em-desenvolvimento-frontend?color=%230000ff&logo=github&logoColor=%2300ff00&style=flat-square)</a>  <a href="https://github.com/emersonpessoa01/igti-bootcamp-fullstack" target="_blank"><img src="https://img.shields.io/static/v1?label=build&message=fullstack&color=4c15dc&stype=for-the-flat&logo=javascript"></a> 
+<a href="window.location.replace(https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend" target="_blank)"><img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=0000ff&stype=for-the-flat&logo=javascript"></a> <a href="https://github.com/emersonpessoa01" target="_blank" > ![GitHub last commit](https://img.shields.io/github/last-commit/emersonpessoa01/fundamentos-em-desenvolvimento-frontend?color=%230000ff&logo=github&logoColor=%2300ff00&style=flat-square)</a>  <a href="https://github.com/emersonpessoa01/igti-bootcamp-fullstack" target="_blank"><img src="https://img.shields.io/static/v1?label=build&message=fullstack&color=4c15dc&stype=for-the-flat&logo=javascript"></a> 
 
 ### Over view das aplicações
 ---
