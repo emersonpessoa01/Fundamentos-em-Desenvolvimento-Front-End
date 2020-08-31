@@ -1,5 +1,5 @@
 <h2 align="center">
-     <b>igti-bootcamp-frontend 2020©:</b> :checkered_flag:
+     <b>igti-bootcamp-frontend 2020©</b> :checkered_flag:
 </p>
 <hr>
 
@@ -7,6 +7,7 @@
 <p align="center">
      <img src="./image/images/gitironman.jpg" width="100" alt="gitironman">
 </p>
+<img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=blue&stype=flag&logo=javascript"
 <hr>
 
 ### Over view das aplicações
