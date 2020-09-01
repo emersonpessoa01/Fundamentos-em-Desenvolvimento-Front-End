@@ -18,11 +18,14 @@
 [<img src="./image/gifs/CRUD.gif" width="95%" alt="calculator"><br><sub> CRUD</sub>]() | [<img src="./image/gifs/desafio01.gif" width="115%" alt="desafio01"><br><sub> DESAFIO 1 </sub>]() |
 | :---: | :---: |
 
-[<img src="./image/gifs/calculator.gif" width="95%" alt="calculator"><br><sub> CALCULATOR</sub>]() |
+[<img src="./image/gifs/calculator.gif" width="60%" alt="calculator"><br><sub> CALCULATOR</sub>]() |
 | :---: |
 
- ### Módulos: 
- 
+<h2 align="center">Conteúdo programático</h2>:octocat:
+ <h2 align="center">
+     <img src="image/gifs/gitoctodex.gif" width=90 >
+</h2>
+
 <hr>
 
  **Capítulo 1 - Ecossistema:**
