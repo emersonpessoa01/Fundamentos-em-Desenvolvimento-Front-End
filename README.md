@@ -21,14 +21,14 @@
 [<img src="./image/gifs/calculator.gif" width="60%" alt="calculator"><br><sub> CALCULATOR</sub>]() |
 | :---: |
 
-<h2 align="center">Conteúdo programático</h2>:octocat:
+<h2 align="center">Conteúdo programático:octocat:</h2>
  <h2 align="center">
      <img src="image/gifs/gitoctodex.gif" width=90 >
 </h2>
 
 <hr>
 
- **Capítulo 1 - Ecossistema:**
+ **Capítulo 1 - Ecossistema**:books
  - Material das videoaulas do capítulo 1
   >Aula 1.1.1 - Introdução ao Visual Studio Code (Parte 1)<br>
   >Aula 1.1.2 - Introdução ao Visual Studio Code (Parte 2)<br>
@@ -41,7 +41,7 @@
  - Exercícios de fixação do capítulo 1<br>
  
 ---
- **Capítulo 2 - JavaScript**
+ **Capítulo 2 - JavaScript**:books
 - Material das videoaulas do capítulo 2
    > Aula 2.1 - Introdução ao JavaScript<br>
    > Aula 2.2.1 - JavaScript básico (Parte 1)<br>
@@ -53,7 +53,7 @@
 
 ---
 
-**Capítulo 3 - DOM, Formulários e Eventos**
+**Capítulo 3 - DOM, Formulários e Eventos**:books
 - Material das videoaulas do capítulo 3
   > Aula 3.1 - Manipulando o DOM com JavaScript<br>
   > Aula 3.2 - Manipulando o CSS com JavaScript<br>
@@ -70,7 +70,7 @@
   
 ---
 
-**Capítulo 4 - JavaScript Moderno**
+**Capítulo 4 - JavaScript Moderno** :books
 - Material das videoaulas do capítulo 4
   > Aula 4.1.1 - Introdução ao JavaScript moderno (Parte 1)<br>
   > Aula 4.1.2 - Introdução ao JavaScript moderno (Parte 2)<br>
@@ -83,7 +83,7 @@
 
 ---
 
-**Capítulo 5 - Programação Assíncrona com JavaScript**
+**Capítulo 5 - Programação Assíncrona com JavaScript** :books
 - Material das videoaulas do capítulo 5
   > Aula 5.1 - Introdução à programação assíncrona com JavaScript<br>
   > Aula 5.2 - As funções setTimeout e setInterval<br>
