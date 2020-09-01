@@ -28,7 +28,11 @@
 alt="crud">
 
 ---
+[<img src="./image/gifs/calculator.gif" width="95%" alt="calculator"><br><sub> CALCULATOR</sub>]() | [<img src="./image/gifs/desafio01.gif" width="115%" alt="desafio01"><br><sub> DESAFIO 1 </sub>]() |
+| :---: | :---: |
 
+[<img src="./image/gifs/calculator.gif" width="95%" alt="calculator"><br><sub> CALCULATOR</sub>]() |
+| :---: |
 
  ### Módulos: 
  
