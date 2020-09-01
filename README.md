@@ -26,21 +26,21 @@
 </p>
 
  <h2 align="center">
-     <img src="image/gifs/gitoctodex.gif" width=90 >
+     <a href="https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend" target="_blank"><img src="image/gifs/gitoctodex.gif" width=90 ></a>
 </h2>
 
 <hr>
 
  **Capítulo 1 - Ecossistema** :books:
  - Material das videoaulas do capítulo 1
-  >Aula 1.1.1 - Introdução ao Visual Studio Code (Parte 1)<br>
-  >Aula 1.1.2 - Introdução ao Visual Studio Code (Parte 2)<br>
-  > Aula 1.2 - Introdução ao Node.js<br>
-  > Aula 1.3 - Introdução ao NPM e à biblioteca live-server<br>
-  > Aula 1.4.1 - Noções de HTML (Parte 1)<br>
-  > Aula 1.4.2 - Noções de HTML (Parte 2)<br>
-  > Aula 1.5.1 - Noções de CSS (Parte 1)<br>
-  > Aula 1.5.2 - Noções de CSS (Parte 2)<br
+   >Aula 1.1.1 - Introdução ao Visual Studio Code (Parte 1)<br>
+   >Aula 1.1.2 - Introdução ao Visual Studio Code (Parte 2)<br>
+   > Aula 1.2 - Introdução ao Node.js<br>
+   > Aula 1.3 - Introdução ao NPM e à biblioteca live-server<br>
+   > Aula 1.4.1 - Noções de HTML (Parte 1)<br>
+   > Aula 1.4.2 - Noções de HTML (Parte 2)<br>
+   > Aula 1.5.1 - Noções de CSS (Parte 1)<br>
+   > Aula 1.5.2 - Noções de CSS (Parte 2)<br
  - Exercícios de fixação do capítulo 1<br>
  
 ---
