@@ -1,9 +1,7 @@
-<h1 align="center">
-     <b>igti-bootcamp-frontend 2020©</b> :checkered_flag:
-</h1>
-<hr>
-
-### Repositório para armazenar conteúdos do Bootcamp Desenvolvedor Frontend da IGTI. :octocat: 
+ <h2 align="center"><b>Fundamentos Front End Developer - FFE203A <sup>©</sup></b></h2>
+<h2 align="center">
+     <img src="./image/images/frontend.jpg" width="40%">
+</h2>
 <hr>
 <h4>Desenvolvedores:</h4>
 
@@ -30,11 +28,7 @@
 alt="crud">
 
 ---
-<h2 align="center">
-     <b>Fundamentos em Desenvolvimento Front End - FFE203A ©</b>
-     <img src="./image/images/frontend.jpg" width="60%">
-</h2>
-<hr>
+
 
  ### Módulos: 
  
