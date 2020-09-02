@@ -14,7 +14,7 @@
 
 <a href="https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend" target="_blank"><img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=0066ff&stype=for-the-flat&logo=javascript"></a> <a href="https://github.com/emersonpessoa01" target="_blank" > ![GitHub last commit](https://img.shields.io/github/last-commit/emersonpessoa01/fundamentos-em-desenvolvimento-frontend?color=%230000ff&logo=github&logoColor=%231f1f14&style=flat-square)</a>  <a href="https://github.com/emersonpessoa01/igti-bootcamp-fullstack" target="_blank"><img src="https://img.shields.io/static/v1?label=build&message=fullstack&color=4c15dc&stype=for-the-flat&logo=REACT"></a> 
 
-#### Preview:
+##### Preview:
 
 [<img src="./image/gifs/CRUD.gif" width="95%" alt="calculator"><br><sub> CRUD</sub>](https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend/tree/master/crud) | [<img src="./image/gifs/desafio01.gif" width="115%" alt="desafio01"><br><sub> DESAFIO 1 </sub>](https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend/tree/master/desafio01) |
 | :---: | :---: |
