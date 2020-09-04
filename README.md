@@ -1,5 +1,5 @@
- <p align="center">
-   <b>Fundamentos Front End Developer - FFE203A - IGTI julho/2020<sup>©</sup></b> </p>
+ <h4 align="center">
+   <b>Fundamentos Front End Developer - FFE203A - IGTI julho/2020<sup>©</sup></b> </h4>
 <h2 align="center">
      <img src="./image/images/frontend.jpg" width="40%">
 </h2>
