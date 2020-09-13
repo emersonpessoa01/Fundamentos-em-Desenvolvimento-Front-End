@@ -16,7 +16,7 @@
 
 ##### Preview:
 
-[<img src="./image/gifs/CRUD.gif" width="95%" alt="calculator"><br><sub> CRUD</sub>](https://emersonpessoa01.github.io/desafio-frontend/) | [<img src="./image/gifs/desafio01.gif" width="115%" alt="desafio01"><br><sub> DESAFIO 1 </sub>](https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend/tree/master/desafio01) |
+[<img src="./image/gifs/CRUD.gif" width="95%" alt="calculator"><br><sub> CRUD</sub>](https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend/tree/master/crud) | [<img src="./image/gifs/desafio01.gif" width="115%" alt="desafio01"><br><sub> DESAFIO 1 </sub>](https://github.com/emersonpessoa01/fundamentos-em-desenvolvimento-frontend/tree/master/desafio01) |
 | :---: | :---: |
 
 [<img src="./image/gifs/calculator.gif" width="60%" alt="calculator"><br><sub> CALCULATOR</sub>](https://emersonpessoa01.github.io/calculator/) |
